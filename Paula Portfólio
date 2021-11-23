@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>PORTFÓLIO-Paula Henriques</title>
+        <meta charset="UTF-8">
+        <style>
+            h1, h2 {
+                color: rgb(72, 132, 134);
+                font-family: monospace;
+                font-weight: 600;
+                line-height: 5;
+            }
+            
+            body {
+                display: block;
+                background-color: rgb(216, 215, 214);
+            }
+            
+            #cordoparagrafo {
+                background-color: slategrey;
+            }
+
+            .estilocomum { 
+                color:palevioletred;
+            }
+            .pictures {
+                border: 10px groove palevioletred;
+                border-bottom-right-radius: 30%;
+                border-top-right-radius: 70%;
+                border-bottom-left-radius: 5%;
+                border-top-left-radius: 30%;
+                margin: auto;
+                display: block;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Paula Carvalho Henriques</h1>
+        <img class="pictures" src="Paula.png" alt="foto Paula" width="300px">
+        <h2>Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></h2>
+        <h3><strong>Brasileira, Mineira e Carandaiense</strong></h3>
+        <p id="cordoparagrafo"> Meu portfólio<br>by Trybe</p>
+        <a href="https://www.linkedin.com/in/paula-carvalho-155599196/" target="_blank">linkedin</a>
+        <ul class="estilocomum">
+            <li><a href="#a">AA</a></li>
+            <li>2</li>
+            <li>3</li>
+        </ul>
+        <p id="css">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+    </body>
+</html>
