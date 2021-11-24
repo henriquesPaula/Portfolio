@@ -1,0 +1,36 @@
+a:link{
+    background: rgb(146, 117, 155);
+    font-family: monospace;
+    font-weight: 900;
+    line-height: 0;
+    text-decoration: none;
+    margin: auto;
+    color: #fff
+    <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+}
+
+a:hover{
+color: transparent;
+}
+
+body {
+    display: block;
+    background-color: rgb(216, 215, 214);
+}
+
+#cordoparagrafo {
+    background-color: slategrey;
+}
+
+.estilocomum { 
+    color:palevioletred;
+}
+.pictures {
+    border: 10px groove palevioletred;
+    border-bottom-right-radius: 30%;
+    border-top-right-radius: 70%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 30%;
+    margin: auto;
+    display: block;
+}
