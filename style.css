@@ -1,4 +1,4 @@
-a:link{
+a:link {
     background: #cad2c5;
     font-family: helvetica;
     font-weight: 700;
@@ -7,9 +7,8 @@ a:link{
     padding: 10px;
     position: center;
 }
-
-a:hover{
-color: transparent;
+#trybelink {
+    background-color: #cbc0d3;
 }
 
 body {
@@ -17,9 +16,6 @@ body {
     color: #354f52;
     font-style: Times;
     text-align: center;
-}
-#box {
-    
 }
 
 #lugar {
