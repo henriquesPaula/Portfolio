@@ -1,12 +1,11 @@
 a:link{
-    background: rgb(146, 117, 155);
-    font-family: monospace;
-    font-weight: 900;
-    line-height: 0;
+    background: #cad2c5;
+    font-family: helvetica;
+    font-weight: 700;
     text-decoration: none;
-    margin: auto;
-    color: #fff
-    <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+    font-size: large;
+    padding: 10px;
+    position: center;
 }
 
 a:hover{
@@ -14,23 +13,45 @@ color: transparent;
 }
 
 body {
-    display: block;
-    background-color: rgb(216, 215, 214);
+    background-color:#cbc0d3;
+    color: #354f52;
+    font-style: Times;
+    text-align: center;
 }
 
-#cordoparagrafo {
-    background-color: slategrey;
+#lugar {
+    background-color: #efd3d7;
+    font-family: 'Open Sans';
+    font-size: x-large;
+    padding: 30px;
 }
 
-.estilocomum { 
-    color:palevioletred;
+#Habilidades { 
+    background-color: #b6ad90;
+    padding: 20px;
+    font-family: 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:start;
+}
+div { 
+    color: rgb(59, 49, 49);
+}
+.e1{
+    font-size: large;
+    list-style-type:circle;
+}
+.e2{  
+    font-size: large;
+}
+.e3{
+    font-size: large;
+    list-style-type:circle;
+}
+#e4{
+    font-size: smaller;
 }
 .pictures {
-    border: 10px groove palevioletred;
-    border-bottom-right-radius: 30%;
-    border-top-right-radius: 70%;
-    border-bottom-left-radius: 5%;
-    border-top-left-radius: 30%;
-    margin: auto;
-    display: block;
+    padding: 15px;
+    background-color: #333d29;
+    float: left;
+    border-radius: 20%;
 }
